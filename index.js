@@ -43,7 +43,7 @@ const { removeBackgroundFromImageFile } = require('remove.bg')
 const { nad } = require('./language')
 const vcard = 'BEGIN:VCARD\n'
             + 'VERSION:3.0\n'
-            + 'FN:RAMLAN ID\n' // GANTI NAMA LU
+            + 'FN:IrfannnStore\n' // GANTI NAMA LU
             + 'ORG:OWNER BOTZ;\n'
             + 'TEL;type=CELL;type=VOICE;waid=6285559240360:+62 855-5924-0360\n' // GANTI NOMOR LU
             + 'END:VCARD'
